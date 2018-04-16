@@ -2170,4 +2170,7 @@ span {
     .section-brand:before {
         background-size: auto;
     }
+    .video-container {
+        top: 0;
+    }
 }
