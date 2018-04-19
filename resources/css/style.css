@@ -621,7 +621,7 @@ a:active {
     position: absolute;
     left: 0%;
     background-color: #000000c9;
-    background-image: url(../img/cubes.png);
+    background-image: url(../img/cubes-min.png);
 }
 
 
@@ -646,7 +646,7 @@ a:active {
 
 .section-brand:before {
     content: "";
-    background-image: url(../img/iso8.png);
+    background-image: url(../img/iso8-min.png);
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -702,7 +702,7 @@ h2:after {
 
 .section-popupstores:before {
     content: "";
-    background-image: url(../img/iso3.png);
+    background-image: url(../img/iso3-min.png);
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
@@ -857,7 +857,7 @@ h2:after {
 
 .section-collection:before {
     content: "";
-    background-image: url(../img/iso5.png);
+    background-image: url(../img/iso5-min.png);
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
@@ -1161,7 +1161,7 @@ h2:after {
 
 .section-dates-locations:before {
     content: "";
-    background-image: url(../img/iso12.png);
+    background-image: url(../img/iso12-min.png);
     width: 100%;
     height: 100%;
     background-repeat: repeat;
