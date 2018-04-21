@@ -2041,6 +2041,12 @@ span {
     .displaytext h1 {
         font-size: 2.5rem;
     }
+    .section-hero .displaytext {
+        top: 10%;
+    }
+    .section-hero .displaytext__footer {
+        top: 120%;
+    }
     .displaytext h3 {
         font-size: 1rem;
         padding-left: 1rem;
