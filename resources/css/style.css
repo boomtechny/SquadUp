@@ -286,6 +286,8 @@ header {
     width: 20rem;
     z-index: 999;
     text-align: center;
+    transform: translateZ(0);
+    will-change: transform;
 }
 
 .nav.expanded {
@@ -658,6 +660,8 @@ a:active {
     top: 0%;
     left: 0%;
     background-attachment: fixed;
+    transform: translateZ(0);
+    will-change: transform;
 }
 
 h2:after {
@@ -867,6 +871,8 @@ h2:after {
     top: 0%;
     left: 0%;
     background-attachment: fixed;
+    transform: translateZ(0);
+    will-change: transform;
 }
 
 .section-collection h2 {
@@ -1057,6 +1063,8 @@ h2:after {
     background-color: rgb(0, 0, 0);
     /* Fallback color */
     background-color: rgba(0, 0, 0, 0.9);
+    transform: translateZ(0);
+    will-change: transform;
     /* Black w/ opacity */
 }
 
